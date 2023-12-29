@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Hi, my names is Samuel. I ❤️ technology, always looking for new challenges <br><br>I am a Full Stack Developer looking to always improve my skills and propose new technological solutions.</p>&nbsp;
+<p align="center">Hi, my names is Samuel. I ❤️ technology, always looking for new challenges. <br><br>I am a Full Stack Developer looking to always improve my skills and propose new technological solutions.</p>&nbsp;
  
  &nbsp;
  &nbsp;
